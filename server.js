@@ -109,3 +109,4 @@ initDb()
     console.error('Gagal terhubung ke MySQL:', err.message);
     process.exit(1);
   });
+  
